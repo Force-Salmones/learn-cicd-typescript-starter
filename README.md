@@ -1,4 +1,4 @@
-![Tests Badge](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![Tests Badge](https://github.com/Force-Salmones/https://github.com/Force-Salmones/learn-cicd-typescript-starter/actions/workflows/<WORKFLOW_FILE>/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
