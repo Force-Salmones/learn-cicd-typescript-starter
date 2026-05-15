@@ -40,4 +40,6 @@ jobs:
         run: npm ci
 
       - name: Prettier
-        run: npm run format:check
+        run: |
+          npm run format:check
+          npm run lint
